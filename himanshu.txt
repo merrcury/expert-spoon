@@ -1,4 +1,8 @@
 Hello
 Himanshu How are you?
 we will see something now. 
+<<<<<<< HEAD
 we are messing with merge. 
+=======
+again doing something with merge conflict 
+>>>>>>> 856b8a555f6ee8c7e4f90af3d73c9b79fa7b3a5d
