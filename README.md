@@ -58,3 +58,6 @@ __Below is the summary of what is discussed.__
   $ git remote -v #Validating
   ```
 + Ended Session with QnA
+
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">expert-spoon</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/merrcury/expert-spoon/" property="cc:attributionName" rel="cc:attributionURL">Himanshu Garg</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
